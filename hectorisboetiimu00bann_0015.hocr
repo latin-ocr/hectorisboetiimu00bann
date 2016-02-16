@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hectorisboetiimu00bann_0015.png"; bbox 0 0 1955 2807; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 549 1012 1289 1198">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 549 1012 1289 1198">
+     <span class='ocr_line' id='line_1_1' title="bbox 759 1012 1086 1048; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 759 1012 1086 1048; x_wconf 83' lang='lat' dir='ltr'>PRESENTED</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 549 1162 1289 1198; baseline 0.001 -1"><span class='ocrx_word' id='word_1_2' title='bbox 549 1162 618 1198; x_wconf 88' lang='lat' dir='ltr'>TO</span> <span class='ocrx_word' id='word_1_3' title='bbox 645 1163 757 1197; x_wconf 87' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_4' title='bbox 786 1162 1051 1198; x_wconf 83' lang='lat' dir='ltr'><strong>MEMBERS</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1078 1164 1147 1198; x_wconf 87' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_6' title='bbox 1176 1164 1289 1198; x_wconf 87' lang='lat' dir='ltr'>THE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 490 1307 1345 1366">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 490 1307 1345 1366">
+     <span class='ocr_line' id='line_1_3' title="bbox 490 1307 1345 1366; baseline 0.002 -12"><span class='ocrx_word' id='word_1_7' title='bbox 490 1307 1063 1355; x_wconf 87' lang='lat' dir='ltr'><strong>BANNATYNE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1111 1309 1345 1366; x_wconf 87' lang='lat' dir='ltr'>CLUB,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 534 1447 1300 1507">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 534 1447 1300 1507">
+     <span class='ocr_line' id='line_1_4' title="bbox 534 1447 1300 1507; baseline 0.005 -4"><span class='ocrx_word' id='word_1_9' title='bbox 534 1469 604 1503; x_wconf 75' lang='grc' dir='ltr'>ΒΥ</span> <span class='ocrx_word' id='word_1_10' title='bbox 632 1447 830 1504; x_wconf 79' lang='lat' dir='ltr'>HENRY</span> <span class='ocrx_word' id='word_1_11' title='bbox 856 1469 1153 1506; x_wconf 81' lang='lat' dir='ltr'>COCKBURN</span> <span class='ocrx_word' id='word_1_12' title='bbox 1179 1471 1300 1507; x_wconf 85' lang='lat' dir='ltr'>AND</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 631 1603 1201 1641">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 631 1603 1201 1641">
+     <span class='ocr_line' id='line_1_5' title="bbox 631 1603 1201 1641; baseline 0.005 -3"><span class='ocrx_word' id='word_1_13' title='bbox 631 1603 859 1639; x_wconf 89' lang='lat' dir='ltr'>THOMAS</span> <span class='ocrx_word' id='word_1_14' title='bbox 888 1604 1201 1641; x_wconf 83' lang='lat' dir='ltr'><strong>MAITLAND.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
